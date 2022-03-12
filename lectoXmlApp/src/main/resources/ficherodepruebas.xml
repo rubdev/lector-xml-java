@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<datosAlumnos>
+	<nombreDocumento>Datos Alumnos Marzo 2022</nombreDocumento>
+	<fecha>2022-03-12</fecha>
+	<alumnos>
+		<alumno id="1">
+			<nif>012345678A</nif>
+			<nombre>Miguel</nombre>
+			<apellidos>Fernández Gutierrez</apellidos>
+			<fechaNacimiento>2022-03-12</fechaNacimiento>
+			<curso>Kotlin</curso>
+		</alumno>
+		<alumno id="2">
+			<nif>01184224T</nif>
+			<nombre>Óscar</nombre>
+			<apellidos>Rodríguez Heredia</apellidos>
+			<fechaNacimiento>2022-03-12</fechaNacimiento>
+			<curso>PHP</curso>
+		</alumno>
+		<alumno id="3">
+			<nif>53635706M</nif>
+			<nombre>Genaro</nombre>
+			<apellidos>Jiménez Moreno</apellidos>
+			<fechaNacimiento>2022-03-12</fechaNacimiento>
+			<curso>Java</curso>
+		</alumno>
+		<alumno id="4">
+			<nif>88000405J</nif>
+			<nombre>Bernardo</nombre>
+			<apellidos>Moreno</apellidos>
+			<fechaNacimiento>2022-03-12</fechaNacimiento>
+			<curso>Java</curso>
+		</alumno>
+		<alumno id="5">
+			<nif>62565057C</nif>
+			<nombre>Miguel</nombre>
+			<apellidos>Aranda Heredia</apellidos>
+			<fechaNacimiento>2022-03-12</fechaNacimiento>
+			<curso>Kotlin</curso>
+		</alumno>
+		<alumno id="6">
+			<nif>62523288L</nif>
+			<nombre>Pablo</nombre>
+			<apellidos>Fernández</apellidos>
+			<fechaNacimiento>2002-12-12</fechaNacimiento>
+			<curso>PHP</curso>
+		</alumno>
+		<alumno id="7">
+			<nif>40031838Q</nif>
+			<nombre>Marcelo</nombre>
+			<apellidos>Venegas</apellidos>
+			<fechaNacimiento>2001-08-22</fechaNacimiento>
+			<curso>Java</curso>
+		</alumno>
+	</alumnos>
+</datosAlumnos>
